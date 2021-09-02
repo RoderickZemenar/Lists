@@ -1,8 +1,5 @@
 # Lists
 <html>
-  <head>
-   <title>Lists</title>
-  </head>
   <body>
   <h1>Scrambled Eggs</h1>
   <p>Eggs are one of my favorite foods. Here is a recipe for deliciously rich scrambled eggs. </p>
